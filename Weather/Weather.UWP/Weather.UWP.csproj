@@ -112,26 +112,13 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\BackGrnds\AutorenListe_BackGrnd.png" />
     <Content Include="Assets\BackGrnds\ForeCastView_BackGrnd.png" />
-    <Content Include="Assets\BackGrnds\WetterView_Nebel_BackGrnd.png" />
-    <Content Include="Assets\BackGrnds\WetterView_Regen_BackGrnd.png" />
-    <Content Include="Assets\BackGrnds\WetterView_Sonne_BackGrnd.png" />
-    <Content Include="Assets\BackGrnds\WetterView_Schnee_BackGrnd.png" />
-    <Content Include="Assets\BackGrnds\MainView_BackGrnd.png" />
-    <Content Include="Assets\BackGrnds\WetterView_Wind_BackGrnd.png" />
     <Content Include="Assets\LargeTile.scale-100.png" />
     <Content Include="Assets\LargeTile.scale-125.png" />
     <Content Include="Assets\LargeTile.scale-150.png" />
     <Content Include="Assets\LargeTile.scale-200.png" />
     <Content Include="Assets\LargeTile.scale-400.png" />
     <Content Include="Assets\Logos\aktuelle Vorhersage.png" />
-    <Content Include="Assets\Logos\AppStudio Liebezeit_logo.png" />
-    <Content Include="Assets\Logos\heutiges Gedicht.png" />
-    <Content Include="Assets\Logos\Logo_GeburtsOrt.png" />
-    <Content Include="Assets\Logos\Logo_litGesellschaft.png" />
-    <Content Include="Assets\Logos\Logo_Wikipedia.png" />
-    <Content Include="Assets\Logos\Logo_Zitat.png" />
     <Content Include="Assets\Logos\Nebel.png" />
     <Content Include="Assets\Logos\Regen.png" />
     <Content Include="Assets\Logos\Schnee.png" />
