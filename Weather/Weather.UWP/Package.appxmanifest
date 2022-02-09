@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="18001FalkLiebezeit.GedankenzumWetter" Publisher="CN=falkl" Version="1.0.2.0" />
+  <Identity Name="18001FalkLiebezeit.WebService" Publisher="CN=falkl" Version="1.0.2.0" />
   <mp:PhoneIdentity PhoneProductId="9611f088-20a8-4050-8f75-22283d7ae097" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Gedanken zum Wetter</DisplayName>
+    <DisplayName>WebService zum Wetter</DisplayName>
     <PublisherDisplayName>Falk Liebezeit</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
